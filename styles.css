@@ -42,3 +42,14 @@
     background-color: green;
     border-color: green;
 }
+
+#score {
+    text-align: center;
+    margin: 20px;
+}
+
+#result {
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+}
